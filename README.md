@@ -1,0 +1,8 @@
+- view the list of all entities in the app
+- retrieve searched data
+- retrieve filtered data
+- retrieve sorted data
+- create new data
+- remove existing data
+- modify existing data
+- persist data in file without opening the file on each request
