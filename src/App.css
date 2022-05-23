@@ -35,14 +35,3 @@
 .navbar-text{
   margin-right: 10px;
 }
-
-.footer-button {
-  margin-right: 10px;
-  background-color: black;
-}
-
-.footer-button:hover {
-  background-color: white;
-  color: black;
-  border-color: blue;
-}
